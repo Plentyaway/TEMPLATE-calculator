@@ -30,7 +30,7 @@ You are free to add whichever features you want, but below are some suggestions 
 
 ## Grading
 This project is worth 20 points.
-- Functionality (10 points): Does it work? Did you add features?
+- Functionality (10 points): Does it work? Did you add features? Did you customize how it looked?
 - Documentation (10 points): Is the code organized and easy to understand? Do you explain what things are *supposed* to do?
 
 ## Branches
