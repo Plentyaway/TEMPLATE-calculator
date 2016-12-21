@@ -4,10 +4,15 @@
 In this project you will be making a very simple calculator web page. This is a primer to review what you've learned about web development, and GitHub.
 
 ## Outcome
-The finished product will be a "version 1.0" calculator that can add, subtract, multiply, divide, and clear the screen. It will look nice and have *most* of the features necessary to function. It meets the requirements for a **Potentially Shippable Product**. It will also have features that are **not yet implemented**, which you will be free to add *on your own* (ie. version 1.1).
+The finished product will be a "version 1.0" calculator that can add, subtract, multiply, divide, and clear the screen. It will look nice and have *most* of the features necessary to function. It meets the requirements for a **Potentially Shippable Product**. It will also have features that are **not yet implemented**, which you will need to add *on your own* (ie. version 1.1).
 
 ## Timeline
 This project will take about 2 weeks.
+
+## Grading
+This project is worth 20 points.
+- Functionality (10 points): Does it work? Is it easy to use?
+- Documentation (10 points): Is the code organized and easy to understand? (Do you explain what things are *supposed* to do?)
 
 ## Branches
 - **Master**: This is the branch that your customers will run. They expect it to be complete, mostly bug free, and to update *occasionally*. Don't constantly push changes here! (Imagine getting notified to update your iPad apps every. single. day!)
