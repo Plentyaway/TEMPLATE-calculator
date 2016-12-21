@@ -12,19 +12,18 @@ This project will take about 2 weeks. Mr. Scheuerlein will walk you through crea
 ## Missing Features
 You are free to add whichever features you want, but below are some suggestions if you're not sure what to do:
 
-- [ ] The memory functions have not yet been implemented. Implement them.
-- [ ] The try/catch will display an error message for invalid input, but could you prevent invalid input in the first place?
-  - [ ] Repeated decimals (ie. "1.2.3 + 4" = "Error")
-  - [ ] Pressing the equals key when the screen is blank ("undefined")
-  - [ ] Pressing the equals key when the screen is "undefined" ("NaN")
-  - [ ] What other errors are there? Can you prevent them?
-- [ ] Most calculators display a "0" when you clear them. Make this calculator display "0" upon clearing.
-- [ ] It's a little odd that it can display "123+456". Fix it. (Do you still need an "=" button?)
-- [ ] Add some keys. Hint: JavaScript has built-in functions and constants for most of these. Look them up to learn how to use them.
-  - [ ] Constants: e, π, etc.
-  - [ ] Square root
-  - [ ] Exponents
-- [ ] Clicking takes too much work. Make it so pressing your keyboard keys behaves like clicking on the calculator's keys. Note: this is probably the hardest feature to implement! Expect to do some research!
+1. The memory functions have not yet been implemented. Implement them.
+2. The try/catch will display an error message for invalid input, but could you prevent invalid input in the first place?
+  - Repeated decimals (ie. "1.2.3 + 4" = "Error")
+  - Pressing the equals key when the screen is blank ("undefined")
+  - What other errors are there? Can you prevent them?
+3. Most calculators display a "0" when you clear them. Make this calculator display "0" upon clearing.
+4. It's a little odd that it can display "123+456". Fix it. (Do you still need an "=" button?)
+5. Add some keys. Hint: JavaScript has built-in functions and constants for most of these. Look them up to learn how to use them.
+  - Constants: e, π, etc.
+  - Square root
+  - Exponents
+6. Clicking takes too much work. Make it so pressing your keyboard keys behaves like clicking on the calculator's keys. Note: this is probably the hardest feature to implement! Expect to do some research!
 
 ## Grading
 This project is worth 20 points.
