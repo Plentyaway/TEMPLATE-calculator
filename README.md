@@ -4,7 +4,7 @@
 In this project you will be making a very simple calculator web page. This is a primer to review what you've learned about web development, and GitHub.
 
 ## Outcome
-The finished product will be a "version 1.0" calculator that can add, subtract, multiply, divide, and clear the screen. It will look nice and have *most* of the features necessary to function. It meets the requirements for a **Potentially Shippable Product**. It will also have features that are **not yet implemented**, which you will need to add *on your own* (ie. version 1.1).
+The finished product will be a "version 1.0" calculator that can add, subtract, multiply, divide, and clear the screen. It will look nice and have *most* of the features necessary to function. It meets the requirements for a **Potentially Shippable Product**. It will also have features that are **not yet implemented**, which *you will need to add on your own* (ie. version 1.1).
 
 ## Timeline
 This project will take about 2 weeks.
