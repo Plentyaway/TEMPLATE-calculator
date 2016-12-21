@@ -17,7 +17,7 @@ You are free to add whichever features you want, but below are some suggestions 
 
 1. The memory functions have not yet been implemented. Implement them.
 2. The try/catch will display an error message for invalid input, but could you prevent invalid input in the first place?
-  - Repeated decimals (ie. "1.2.3 + 4" = "Error")
+  - Repeated decimals (ie. "1.2.3+4" = "Error")
   - Pressing the equals key when the screen is blank ("undefined")
   - What other errors are there? Can you prevent them?
 3. Most calculators display a "0" when you clear them. Make this calculator display "0" upon clearing.
