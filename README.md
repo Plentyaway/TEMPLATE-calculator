@@ -7,7 +7,7 @@ In this project you will be making a very simple calculator web page. This is a 
 The finished product will be a "version 1.0" calculator that can add, subtract, multiply, divide, and clear the screen. It will look nice and have *most* of the features necessary to function. It meets the requirements for a **Potentially Shippable Product**. It will also have features that are **not yet implemented**, which you will be free to add *on your own* (ie. version 1.1).
 
 ## Timeline
-This project will take about 1 week.
+This project will take about 2 weeks.
 
 ## Branches
 - **Master**: This is the branch that your customers will run. They expect it to be complete, mostly bug free, and to update *occasionally*. Don't constantly push changes here! (Imagine getting notified to update your iPad apps every. single. day!)
