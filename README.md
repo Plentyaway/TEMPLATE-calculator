@@ -3,8 +3,11 @@
 ## Introduction
 In this project you will be making a very simple calculator web page. This is a primer to review what you've learned about web development, and GitHub.
 
+## Projects and Issues
+During this project you will also be learning about the Projects and Issues tabs on GitHub. You will be expected to use them in this and your next project on GitHub.
+
 ## Outcome
-The finished product will be a **Version 1.0**-calculator that can add, subtract, multiply, divide, and clear the screen. It will look nice and have *most* of the features necessary to function. It meets the requirements for a **Potentially Shippable Product**. It will also have features that are **not yet implemented**, which *you will need to add on your own* (ie. version 1.1).
+The finished product will be a calculator that can add, subtract, multiply, divide, and clear the screen. It meets the requirements for a **Potentially Shippable Product**, but it will also have features that are **not yet implemented**. You will need to add some of your own features (ie. version 1.1).
 
 ## Timeline
 This project will take about 2 weeks. Mr. Scheuerlein will walk you through creating **Version 1.0** in the first week and then you will have the second week to finish whichever missing features you want.
