@@ -21,7 +21,7 @@ You are free to add whichever features you want, but below are some suggestions 
   - Pressing the equals key when the screen is blank ("undefined")
   - What other errors are there? Can you prevent them?
 3. Most calculators display a "0" when you clear them. Make this calculator display "0" upon clearing.
-4. It's a little odd that it can display "123+456". Fix it. (Do you still need an "=" button?)
+4. It's a little odd that it can display "123+456". How do most calculators do this? Can you fix this one?
 5. Add some keys. Hint: JavaScript has built-in functions and constants for most of these. Look them up to learn how to use them.
   - Constants: e, π, etc.
   - Square root
