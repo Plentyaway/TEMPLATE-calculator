@@ -22,11 +22,12 @@ You are free to add whichever features you want, but below are some suggestions 
   - What other errors are there? Can you prevent them?
 3. Most calculators display a "0" when you clear them. Make this calculator display "0" upon clearing.
 4. It's a little odd that it can display "123+456". How do most calculators do this? Can you fix this one?
-5. Add some keys. Hint: JavaScript has built-in functions and constants for most of these. Look them up to learn how to use them.
+5. Add some keys. (Hint: JavaScript has built-in solutions for some of these. Look them up to learn how to use them.)
   - Constants: e, π, etc.
   - Square root
   - Exponents
-6. Clicking takes too much work. Make it so pressing your keyboard keys behaves like clicking on the calculator's keys. Note: this is probably the hardest feature to implement! Expect to do some research!
+6. Clicking takes too much work. Make it so pressing your keyboard keys behaves like clicking on the calculator's keys. Warning: this is probably the hardest feature to implement! Expect to do some research!
+7. Is this calculator responsive? Make it adapt for smaller screens.
 
 ## Grading
 This project is worth 20 points.
