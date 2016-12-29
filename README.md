@@ -30,7 +30,8 @@ You are free to add whichever features you want, but below are some suggestions 
 7. Make this calculator fit for smaller screens.
 
 ## Grading
-This project is worth 20 points.
+This project is worth 30 points.
+- Completion of Mr. Scheuerlein's Version 1.0 Calculator (10 points)
 - Functionality (10 points): Does it work? Did you add features? Did you customize how it looked?
 - Documentation (10 points): Is the code organized and easy to understand? Do you explain what things are *supposed* to do?
 
